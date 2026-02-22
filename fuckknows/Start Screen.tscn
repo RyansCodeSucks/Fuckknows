@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://cdgwvbhm4gheu"]
+
+[node name="Node2D" type="Node2D" unique_id=580429591]
+
+[node name="Background" type="Polygon2D" parent="." unique_id=1994792920]
+position = Vector2(58, 30)
+color = Color(0.9411026, 1, 0.64243627, 1)
+polygon = PackedVector2Array(0, 239.99998, 535.99994, 240, 535.99994, 40, 0, 40)
+uv = PackedVector2Array(0, 239.99998, 535.99994, 240, 535.99994, 40, 0, 40)
